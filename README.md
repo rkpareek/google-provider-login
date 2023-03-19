@@ -1,5 +1,6 @@
 # google-provider-login
     Automate 'login with google' yes is not so easy,
+    Automate 'login with google'
     google have more secure and dynamic DOM login popup-interface.
     Google is now two kind of popup inteface and both are completely different.
     This package lets you the flexibility to logs you into your website through
